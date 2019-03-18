@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="moviestyle.xsl"?>
+<movielist>
+    
+    <movie>
+        <MovieID>10</MovieID>
+        <TypeID>1</TypeID>
+        <Movie_title>My Fair Lady</Movie_title>
+        <Movie_copies>1</Movie_copies>
+        <Movie_cost>20</Movie_cost>
+        <isEligible>Y</isEligible>
+        <movie_indate>2018-05-02</movie_indate>
+    </movie>
+    
+    <movie>
+        <MovieID>11</MovieID>
+        <TypeID>1</TypeID>
+        <Movie_title>Oklahoma</Movie_title>
+        <Movie_copies>1</Movie_copies>
+        <Movie_cost>50</Movie_cost>
+        <isEligible>Y</isEligible>
+        <movie_indate>2018-05-04</movie_indate>
+    </movie>
+    
+    <movie>
+        <MovieID>12</MovieID>
+        <TypeID>1</TypeID>
+        <Movie_title>Oklahoma</Movie_title>
+        <Movie_copies>2</Movie_copies>
+        <Movie_cost>30</Movie_cost>
+        <isEligible>Y</isEligible>
+        <movie_indate>2018-05-03</movie_indate>
+    </movie>
+    
+    <movie>
+        <MovieID>13</MovieID>
+        <TypeID>2</TypeID>
+        <Movie_title>Amazon Journey</Movie_title>
+        <Movie_copies>2</Movie_copies>
+        <Movie_cost>30</Movie_cost>
+        <isEligible>N</isEligible>
+        <movie_indate>2018-05-01</movie_indate>
+    </movie>
+    <movie>
+        <MovieID>14</MovieID>
+        <TypeID>2</TypeID>
+        <Movie_title>Amazon Journey</Movie_title>
+        <Movie_copies>2</Movie_copies>
+        <Movie_cost>70</Movie_cost>
+        <isEligible>N</isEligible>
+        <movie_indate>2018-05-01</movie_indate>
+    </movie>
+</movielist>

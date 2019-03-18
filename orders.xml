@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderlist>
+    
+    <order>
+        <OrderID>150</OrderID>
+        <EmpID>103</EmpID>
+        <VendorID>20</VendorID>
+        <MovieID>10</MovieID>
+        <Ordered_date>2018-03-02</Ordered_date>
+        <Ordered_count>1</Ordered_count>
+        <Ordered_cost>18</Ordered_cost>
+    </order>
+    
+    <order>
+        <OrderID>151</OrderID>
+        <EmpID>102</EmpID>
+        <VendorID>21</VendorID>
+        <MovieID>11</MovieID>
+        <Ordered_date>2018-03-01</Ordered_date>
+        <Ordered_count>2</Ordered_count>
+        <Ordered_cost>15</Ordered_cost>
+    </order>
+</orderlist>
+

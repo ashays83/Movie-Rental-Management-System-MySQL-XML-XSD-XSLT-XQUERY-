@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typelist>
+    <type>
+        <TypeID>1</TypeID>
+        <Typename>cartoon</Typename>
+    </type>
+    
+    <type>
+        <TypeID>2</TypeID>
+        <Typename>Action</Typename>
+    </type>
+    
+    <type>
+        <TypeID>3</TypeID>
+        <Typename>Musical</Typename>
+    </type>
+</typelist>

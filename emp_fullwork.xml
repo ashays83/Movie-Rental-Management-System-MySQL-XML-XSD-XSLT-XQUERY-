@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fullworklist>
+    
+    <fullwork>
+        <FullworkID>80</FullworkID>
+        <EmpID>102</EmpID>
+        <hours_perweek>50</hours_perweek>
+        <wage_perhour>20</wage_perhour>
+        <Total_pay>1000</Total_pay>
+    </fullwork>
+    
+    <fullwork>
+        <FullworkID>81</FullworkID>
+        <EmpID>103</EmpID>
+        <hours_perweek>60</hours_perweek>
+        <wage_perhour>30</wage_perhour>
+        <Total_pay>1800</Total_pay>
+    </fullwork>
+</fullworklist>
+

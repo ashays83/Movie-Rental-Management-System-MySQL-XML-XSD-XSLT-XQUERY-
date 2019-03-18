@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partworklist>
+    
+    <partwork>
+        <PartlogID>71</PartlogID>
+        <EmpID>101</EmpID>
+        <Start_time>2018-03-12 06:00:00</Start_time>
+        <End_time>2018-03-12 12:00:44</End_time>
+        <Pay_perhour>12</Pay_perhour>
+        <Total_pay>72</Total_pay>
+    </partwork>
+    
+    <partwork>
+        <PartlogID>72</PartlogID>
+        <Total_pay>24</Total_pay>
+    </partwork>
+    
+    <partwork>
+        <PartlogID>73</PartlogID>
+        <EmpID>100</EmpID>
+        <Start_time>2018-03-13 10:00:00</Start_time>  <EmpID>100</EmpID>
+        <Start_time>2018-03-12 10:00:00</Start_time>
+        <End_time>2018-03-12 12:00:44</End_time>
+        <Pay_perhour>12</Pay_perhour>
+      
+        <End_time>2018-03-12 13:00:44</End_time>
+        <Pay_perhour>12</Pay_perhour>
+        <Total_pay>NULL</Total_pay>
+    </partwork>
+</partworklist>

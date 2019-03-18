@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customerlist>
+    
+    <customer>
+        <CustID>30</CustID>
+        <Cust_name>customer 1</Cust_name>
+        <Cust_email>cust1@test.com</Cust_email>
+        <cust_phone>+12223456789</cust_phone>
+    </customer>
+    
+    <customer>
+        <CustID>31</CustID>
+        <Cust_name>customer 2</Cust_name>
+        <Cust_email>cust2@test.com</Cust_email>
+        <cust_phone>+12223456789</cust_phone>
+    </customer>
+    
+    <customer>
+        <CustID>32</CustID>
+        <Cust_name>customer 3</Cust_name>
+        <Cust_email>cust3@test.com</Cust_email>
+        <cust_phone>+12346658585</cust_phone>
+    </customer>
+</customerlist>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<emplist>
+    
+    <emp>
+        <EmpID>100</EmpID>
+        <Emp_fname>Bob</Emp_fname>
+        <Emp_lname>Smith</Emp_lname>
+        <Emp_email>bob@test.com</Emp_email>
+        <Emp_number>+12223456789</Emp_number>
+    </emp>
+    
+    <emp>
+        <EmpID>101</EmpID>
+        <Emp_fname>John</Emp_fname>
+        <Emp_lname>Davis</Emp_lname>
+        <Emp_email>smith@test.com</Emp_email>
+        <Emp_number>+12223456789</Emp_number>
+    </emp>
+    
+    <emp>
+        <EmpID>102</EmpID>
+        <Emp_fname>Neem</Emp_fname>
+        <Emp_lname>Dhori</Emp_lname>
+        <Emp_email>neem@test.com</Emp_email>
+        <Emp_number>+12223456789</Emp_number>
+    </emp>
+    
+    <emp>
+        <EmpID>103</EmpID>
+        <Emp_fname>Eba</Emp_fname>
+        <Emp_lname>setty</Emp_lname>
+        <Emp_email>eba@test.com</Emp_email>
+        <Emp_number>+12223456789</Emp_number>
+    </emp>
+</emplist>

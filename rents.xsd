@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="rentlist">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="rent"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="rent">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="RentID"/>
+        <xs:element ref="EmpID"/>
+        <xs:element ref="CustID"/>
+        <xs:element ref="MovieID"/>
+        <xs:element ref="Rent_date"/>
+        <xs:element ref="Return_date"/>
+        <xs:element ref="latedays"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RentID" type="xs:integer"/>
+  <xs:element name="EmpID" type="xs:integer"/>
+  <xs:element name="CustID" type="xs:integer"/>
+  <xs:element name="MovieID" type="xs:integer"/>
+  <xs:element name="Rent_date" type="xs:string"/>
+  <xs:element name="Return_date" type="xs:string"/>
+  <xs:element name="latedays" type="xs:integer"/>
+</xs:schema>
